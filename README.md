@@ -1,4 +1,7 @@
+# !!!!!!!!!! WARNING: DEPRECATED !!!!!!!!!!!!!!!!!
+
 # OPlus Extras
+# *DO NOT USE THIS THIS IS OUTDATED AND DEPRECATED*
 
 *A configurable parts application for OnePlus & Realme devices.*
 
